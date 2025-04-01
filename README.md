@@ -1,7 +1,9 @@
 # ☕️ Java
  Repositório de aprendizado e referência sobre Java! Contém exemplos práticos, conceitos fundamentais e comparações entre linguagens para facilitar a transição e o aprendizado.
 
-# 🚀 Aprendendo Java do Zero
+---
+
+# 🖋️ Aprendendo Java do Zero
 
 Este repositório tem como objetivo armazenar atividades e ensinamentos sobre Java, servindo como material de consulta tanto para quem está aprendendo do zero quanto para aqueles que estão migrando de outra linguagem de programação.
 
