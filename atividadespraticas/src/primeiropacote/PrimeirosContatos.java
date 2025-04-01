@@ -8,7 +8,7 @@ public class PrimeirosContatos {
         System.out.println("Olá, World");
 
         System.out.println();
-        Date relogio = new Date ();        // classe Date, new é criar um novo objeto, que é elogio.
+        Date relogio = new Date ();        // classe Date, new é criar um novo objeto, no caso, relógio.
         System.out.println("A hora do sistema é");
 
         System.out.println();
