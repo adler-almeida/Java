@@ -5,11 +5,9 @@ import java.awt.Dimension;
 
 public class DesafioDoisResolucaoTela {
     public static void main(String[] args) {
-        System.out.println();
-        System.out.println("======================");
+        System.out.println("\n======================");
         System.out.println("Resolução da Tela");
-        System.out.println("======================");
-        System.out.println();
+        System.out.println("======================\n");
 
         // Acessando informações gráficas
         Toolkit obtendoInformacao = Toolkit.getDefaultToolkit(); // Ambiente grafico
@@ -23,6 +21,7 @@ public class DesafioDoisResolucaoTela {
 
         // Exibe a resolução na tela
         System.out.println("Informações:");
-        System.out.printf("\nLargura: %d. %nAltura: %d. ",largura,altura);
+        System.out.printf("Largura: %d. %nAltura: %d. \n======================",largura,altura);
+
     }
 }
